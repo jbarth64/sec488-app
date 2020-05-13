@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "SEC488-JB",
+    "owner": "James Barth",
+    "description": "SEC488 Test Lab 3.1"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "SEC488-3.1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Test"
+  }
+}
